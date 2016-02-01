@@ -21,7 +21,7 @@
                                 <rect key="frame" x="25" y="328" width="145" height="30"/>
                                 <animations/>
                                 <state key="normal" title="Show Red Bomb">
-                                    <color key="titleColor" red="1" green="0.18632812343659788" blue="0.11903266543986757" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleColor" red="1" green="0.11879615399653165" blue="0.14567416455385374" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
                                     <action selector="showRedBomb:" destination="BYZ-38-t0r" eventType="touchUpInside" id="yap-wR-Boh"/>
